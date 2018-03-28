@@ -1,0 +1,8 @@
+*
+
+!.gitignore
+!/CMakeLists.txt
+!/kdv5/
+!/kdv5/**
+!/kdv5_example_1.cpp
+!/kdv5_example_2.cpp
