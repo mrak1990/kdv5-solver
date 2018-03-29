@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.3)
-project(kdv5-example)
+project(kdv5-example CXX)
 
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)
 
